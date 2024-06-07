@@ -4,6 +4,8 @@
 
 ### Applications
 
+- [Kotync](https://github.com/istudyatuni/kotync) - Rewrite of [Kotatsu sync server](https://github.com/KotatsuApp/kotatsu-syncserver) in Rust.
+- [Reword2Anki](https://github.com/istudyatuni/rewordapp2anki) - Convert word lists from reword.app to Anki decks.
 - [App updates checker](https://github.com/istudyatuni/app-pulse-bot) - Telegram bot for checking apps updates.
 - [Codeforces tester](https://github.com/istudyatuni/codeforces-tester) - Run tests for contest's problems.
 - [Weather site](https://github.com/istudyatuni/weather-site) - Simple weather website built with Svelte.
